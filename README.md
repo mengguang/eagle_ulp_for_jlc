@@ -1,5 +1,5 @@
 # eagle_ulp_for_jlc
-export bom and smt for sz-jlc.com factory
+export bom and smt for sz-jlc.com smt system.  
 
 Drop these two ulp files to your eagle installdir/ulp directory, such as : C:\EAGLE-7.6.0\ulp  
 In schematic window, click File - Export - BOM , uncheck List attributes, choose csv format.  
